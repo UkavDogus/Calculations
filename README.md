@@ -1,2 +1,0 @@
-# Calculations
-Arbeitsauftrag B
